@@ -8,7 +8,7 @@ public class TestaWhile {
             cont++;
 
         }
-        System.out.println(cont);
+
     }
 
 }
